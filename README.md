@@ -30,6 +30,8 @@ Ainda estou só começando, mas com a ajuda e o apoio de todos, vamos realizar n
 ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LGALopes&layout=compact&theme=dracula)
+
 ## Conecte-se comigo!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lgalopes/)
