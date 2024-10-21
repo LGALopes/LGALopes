@@ -1,21 +1,10 @@
 # Oi, eu sou o Luís!
 
-## Sobre mim:
 
-- Tenho 23 anos. ☄️
-- Moro em Sorocaba - SP 🌃
-- Estou cursando Análise e Desenvolvimento de Sistemas. 💻
-- No meu tempo livre gosto de tocar instrumentos musicais. 🎸
-- Tenho um gato preto chamado Ozzy, em homenagem ao Ozzy Osbourne. 🐈‍⬛
-- Amante de café. ☕
+| **Sobre mim** | **Meus Objetivos** |
+|---|---|
+| • Tenho 23 anos. ☄️<br>• Moro em Sorocaba - SP 🌃<br>• Estou cursando Análise e Desenvolvimento de Sistemas. 💻<br>• No meu tempo livre gosto de tocar instrumentos musicais. 🎸<br>• Tenho um gato preto chamado Ozzy, em homenagem ao Ozzy Osbourne. 🐈‍⬛<br>• Amante de café. ☕ | • Me tornar o melhor profissional que eu puder ser.<br>• Ajudar a desenvolver algo que seja relevante na vida das pessoas.<br>• Minha maior meta é morar no exterior!<br>• Ainda estou só começando, mas com a ajuda e o apoio de
 
-## Meus Objetivos:
-
-- Me tornar o melhor profissional que eu puder ser.
-- Ajudar a desenvolver algo que seja relevante na vida das pessoas.
-- Minha maior meta é morar no exterior!
-
-Ainda estou só começando, mas com a ajuda e o apoio de todos, vamos realizar nossos sonhos!
 
 ## Tecnologias que estudo:
 <p>
@@ -32,8 +21,8 @@ Ainda estou só começando, mas com a ajuda e o apoio de todos, vamos realizar n
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" width="50" height="50" />
 </p>
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LGALopes&layout=compact&theme=dark)
-
+| ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LGALopes&layout=compact&theme=tokyonight) | ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LGALopes&show_icons=true&count_private=true&theme=tokyonight) |
+|---|---|
 ## Conecte-se comigo!
 
 <p>
