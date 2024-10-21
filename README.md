@@ -23,6 +23,7 @@
 
 | ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LGALopes&layout=compact&theme=tokyonight) | ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LGALopes&show_icons=true&count_private=true&theme=tokyonight) |
 |---|---|
+---
 ## Conecte-se comigo!
 
 <p>
