@@ -32,7 +32,7 @@ Ainda estou só começando, mas com a ajuda e o apoio de todos, vamos realizar n
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" width="50" height="50" />
 </p>
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LGALopes&layout=compact&theme=dracula)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LGALopes&layout=compact&theme=dark)
 
 ## Conecte-se comigo!
 
